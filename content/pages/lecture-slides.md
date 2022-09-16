@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the lecture slides for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -65,9 +66,9 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5c1289c9-a9d0-8d17-43ea-e13e315f0aab "Critical Drivers-Social Mechanisms & Cognitive Factors (PDF)" %}}
+{{% resource_link 5c1289c9-a9d0-8d17-43ea-e13e315f0aab "Critical Drivers-Social Mechanisms & Cognitive Factors (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7794c763-4965-1923-0d6c-be93f7d60fbb "Global System for Sustainable Development (PDF - 2.1MB)" %}}
+{{% resource_link 7794c763-4965-1923-0d6c-be93f7d60fbb "Global System for Sustainable Development (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +79,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0f2a6c5a-8237-1f97-89f0-ddc7de671c9f "Economic Performance-Production & Consumption (PDF - 1.5MB)" %}}
+{{% resource_link 0f2a6c5a-8237-1f97-89f0-ddc7de671c9f "Economic Performance-Production & Consumption (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
